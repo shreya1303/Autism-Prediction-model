@@ -1,5 +1,5 @@
 streamlit
 pandas
-numpy==1.18.5
+numpy
 streamlit
 scikit_learn
